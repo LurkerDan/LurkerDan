@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @LurkerDan
 - 👀 I’m interested in Adroid Apps and Games
-- 🌱 I’m currently learning C# and Java
+- 🌱 I’m currently learning Python, C# and Java
 - 📫 Reach me vlads3@inbox.ru
